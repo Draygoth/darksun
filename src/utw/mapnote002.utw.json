@@ -1,0 +1,53 @@
+{
+  "__data_type": "UTW ",
+  "Appearance": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "Barunus, the elder leader"
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "HasMapNote": {
+    "type": "byte",
+    "value": 1
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LocalizedName": {
+    "id": 14814,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Chief_Kled"
+    }
+  },
+  "MapNote": {
+    "id": 14815,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Barunus's House"
+    }
+  },
+  "MapNoteEnabled": {
+    "type": "byte",
+    "value": 1
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "NW_Chief_kled"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "mapnote002"
+  }
+}
